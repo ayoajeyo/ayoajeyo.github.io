@@ -1,0 +1,2 @@
+# GitHub Pages가 .well-known 폴더를 숨기지 않고 공개하도록 설정
+include: [".well-known"]
