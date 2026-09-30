@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.physiomaster.posture",
+        "sha256_cert_fingerprints": ["06:C8:7F:FB:FF:96:23:9B:B4:19:9F:46:F2:0A:08:E0:BB:2C:D8:35:F1:56:F2:8D:F8:72:FE:B2:5C:90:C7:FA"]
+      }
+    }]
 
