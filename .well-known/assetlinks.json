@@ -1,9 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.physiomaster.posture",
-        "sha256_cert_fingerprints": ["06:C8:7F:FB:FF:96:23:9B:B4:19:9F:46:F2:0A:08:E0:BB:2C:D8:35:F1:56:F2:8D:F8:72:FE:B2:5C:90:C7:FA"]
-      }
-    }]
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.physiomaster.posture",
+      "sha256_cert_fingerprints": [
+        "06:C8:7F:FB:FF:96:23:9B:B4:19:9F:46:F2:0A:08:E0:BB:2C:D8:35:F1:56:F2:8D:F8:72:FE:B2:5C:90:C7:FA",
+        "2D:29:9B:8F:D8:68:10:76:BB:3C:FF:ED:83:8B:B8:7D:84:80:5A:B4:98:D7:62:23:89:12:D3:77:1A:09:6B:38"
+      ]
+    }
+  }
+]
